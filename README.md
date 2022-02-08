@@ -2,4 +2,3 @@
 
 
 run **pipenv shell**
-**streamlit**
