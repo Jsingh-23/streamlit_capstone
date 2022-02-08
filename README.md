@@ -1,4 +1,4 @@
 # streamlit_capstone
 
 
-run **pipenv shell**
+run **pipenv shell** first
